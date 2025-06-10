@@ -1,9 +1,11 @@
-# Boda Fare Calculator
+This project includes three simple JavaScript programs that simulate stituations related to everyday life:
 
-A simple Node.js script that estimates the cost of a boda boda (motorcycle taxi) ride based on the distance in kilometers.
+1. **Chai Bora Ingredient Calculator** – Calculates chai ingredients based on number of cups.
+2. **Boda Boda Fare Estimator** – Estimates your fare based on trip distance.
+3. **Mobile Money Fee Estimator** – Calculates sending fees with 1.5% logic and caps.
 
-## Project Setup
+## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:Pxffy123/code-challange1.git
+Install Node.js, then run the scripts using:
+
+node <script-name>.js
